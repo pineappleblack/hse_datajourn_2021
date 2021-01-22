@@ -21,5 +21,4 @@
 [Количество тяжких и особо тяжких преступлений по регионам](https://fedstat.ru/indicator/36223) + [Население РФ по регионам](https://showdata.gks.ru/report/278928) <br>
 [Номинанты на Оскар по 2019 год](/data/oscar_nominations_data.csv)<br>
 <br>
-
 [Домашнее задание 1](/homeworks/hw1.md)

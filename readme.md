@@ -22,3 +22,10 @@
 [Номинанты на Оскар по 2019 год](/data/oscar_nominations_data.csv)<br>
 <br>
 [Домашнее задание 1](/homeworks/hw1.md)
+
+## День 3
+**Лекция**<br>
+Где искать данные? [[pdf]](/lections/lection2.pdf)<br>
+
+**Практика**<br>
+[Задачи на поиск данных](https://docs.google.com/document/d/1O7yTBui6XVFsEsq04p_SatrB_c0rjT-9T5bYUz0OZJE/edit?usp=sharing)<br>

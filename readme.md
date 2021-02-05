@@ -29,3 +29,16 @@
 
 **Практика**<br>
 [Задачи на поиск данных](https://docs.google.com/document/d/1O7yTBui6XVFsEsq04p_SatrB_c0rjT-9T5bYUz0OZJE/edit?usp=sharing)<br>
+
+## День 3
+**Лекция**<br>
+Как работать над дата-историей? [[pdf]](/lections/lection3.pdf)<br>
+
+**Практика**<br>
+Что такое корреляция: [[pdf]](/lections/seminar2.pdf)<br>
+
+[Смертность в регионах России](https://fedstat.ru/indicator/43516)<br>
+[Укомплектованность врачебных должностей](https://www.fedstat.ru/indicator/59510)<br>
+[Итоги федерального статистического наблюдения в сфере оплаты труда](https://rosstat.gov.ru/storage/mediabank/itog-monitor04-19.html)<br>
+
+[Тексты для обсуждения на семинаре](https://docs.google.com/document/d/1HNyVhjm9bYZVkOfeA-gYfaQqwFEDvfNoMpYGsX2m5mg/edit?usp=sharing)

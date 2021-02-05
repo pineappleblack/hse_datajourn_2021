@@ -2,6 +2,8 @@
 
 ## Общее
 Основная информация по курсу: [[pdf]](/lections/guide.pdf)<br>
+[Итоговый проект](/homeworks/project.md)
+
 
 ## День 1
 **Лекция**<br>
@@ -30,7 +32,7 @@
 **Практика**<br>
 [Задачи на поиск данных](https://docs.google.com/document/d/1O7yTBui6XVFsEsq04p_SatrB_c0rjT-9T5bYUz0OZJE/edit?usp=sharing)<br>
 
-## День 3
+## День 4
 **Лекция**<br>
 Как работать над дата-историей? [[pdf]](/lections/lection3.pdf)<br>
 

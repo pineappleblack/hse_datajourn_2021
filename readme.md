@@ -50,9 +50,9 @@
 [Сайт для работы с регулярными выражениями](https://regex101.com/)<br>
 [Шпаргалка по регулярным выражениям](https://docs.google.com/spreadsheets/d/1dTxbN3b8Op_erqI3Y20TT5PA0xwdtqdSHHBW5oFr5WQ/edit?usp=sharing)<br>
 
-[Список использованной литературы](https://studfile.net/preview/1475661/page:7/)
-[Декларации Минтруда](/data/declare.docx)
-[Преступление и наказание](/data/prestuplenie.doc)
+[Список использованной литературы](https://studfile.net/preview/1475661/page:7/)<br>
+[Декларации Минтруда](/data/declare.docx)<br>
+[Преступление и наказание](/data/prestuplenie.doc)<br>
 
-[Подсчёт слов в тексте онлайн](https://iksweb.ru/tools/lemma/)
+[Подсчёт слов в тексте онлайн](https://iksweb.ru/tools/lemma/)<br>
 

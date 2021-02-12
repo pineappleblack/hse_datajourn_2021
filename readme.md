@@ -44,3 +44,15 @@
 [Итоги федерального статистического наблюдения в сфере оплаты труда](https://rosstat.gov.ru/storage/mediabank/itog-monitor04-19.html)<br>
 
 [Тексты для обсуждения на семинаре](https://docs.google.com/document/d/1HNyVhjm9bYZVkOfeA-gYfaQqwFEDvfNoMpYGsX2m5mg/edit?usp=sharing)
+
+## День 5
+**Практика**<br>
+[Сайт для работы с регулярными выражениями](https://regex101.com/)<br>
+[Шпаргалка по регулярным выражениям](https://docs.google.com/spreadsheets/d/1dTxbN3b8Op_erqI3Y20TT5PA0xwdtqdSHHBW5oFr5WQ/edit?usp=sharing)<br>
+
+[Список использованной литературы](https://studfile.net/preview/1475661/page:7/)
+[Декларации Минтруда](/data/declare.docx)
+[Преступление и наказание](/data/prestuplenie.doc)
+
+[Подсчёт слов в тексте онлайн](https://iksweb.ru/tools/lemma/)
+

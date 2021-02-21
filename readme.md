@@ -56,3 +56,13 @@
 
 [Подсчёт слов в тексте онлайн](https://iksweb.ru/tools/lemma/)<br>
 
+## День 6
+**Практика**<br>
+[Tabula — программа для извлечения таблиц из PDF-файлов](https://tabula.technology/)<br>
+[Исследование Deutsche Bank о ценах в мире](https://www.dbresearch.com/PROD/RPS_EN-PROD/PROD0000000000494405/Mapping_the_world%27s_prices_2019.pdf)<br>
+[Декларации членов правительства за 2019 год](http://static.government.ru/media/files/MHvQS160MZshfOcPSVScIgEP8iDG9Raq.pdf)
+
+[Open Refine — программа для очистки данных](https://openrefine.org/)<br>
+[Открытые данные портала «Работа в России»](https://trudvsem.ru/opendata)
+
+

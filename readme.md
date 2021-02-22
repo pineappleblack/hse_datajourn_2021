@@ -66,7 +66,6 @@
 [Открытые данные портала «Работа в России»](https://trudvsem.ru/opendata)<br>
 [Статистическая информация о зоопарках](https://opendata.mkrf.ru/opendata/7705851331-stat_zoo)<br>
 
-<br>
 [Домашнее задание 2](/homeworks/hw2.md)
 
 

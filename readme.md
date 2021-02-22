@@ -63,6 +63,10 @@
 [Декларации членов правительства за 2019 год](http://static.government.ru/media/files/MHvQS160MZshfOcPSVScIgEP8iDG9Raq.pdf)
 
 [Open Refine — программа для очистки данных](https://openrefine.org/)<br>
-[Открытые данные портала «Работа в России»](https://trudvsem.ru/opendata)
+[Открытые данные портала «Работа в России»](https://trudvsem.ru/opendata)<br>
+[Статистическая информация о зоопарках](https://opendata.mkrf.ru/opendata/7705851331-stat_zoo)<br>
+]
+<br>
+[Домашнее задание 2](/homeworks/hw2.md)
 
 

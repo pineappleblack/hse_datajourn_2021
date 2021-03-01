@@ -68,15 +68,14 @@
 
 [Домашнее задание 2](/homeworks/hw2.md)
 
-## День 6
+## День 7
 **Лекция**<br>
 Основы визуализации данных [[pdf]](/lections/lection4.pdf)<br>
 
 **Практика**<br>
-[https://www.imo-official.org/year_country_r.aspx?year=2020&column=total&order=desc](Результаты математической олимпиады)<br>
-[https://trends.google.ru/trends/explore?geo=RU&q=%2Fm%2F02p0w7_,%2Fm%2F04115t2](Поисковые запросы о сериалах и работе)<br>
-[https://data.mos.ru/opendata/7710881420-obshchestvennoe-pitanie-v-moskve](Общественное питание в Москве)<br>
-
+[Результаты математической олимпиады](https://www.imo-official.org/year_country_r.aspx?year=2020&column=total&order=desc)<br>
+[Поисковые запросы о сериалах и работе](https://trends.google.ru/trends/explore?geo=RU&q=%2Fm%2F02p0w7_,%2Fm%2F04115t2)<br>
+[Общественное питание в Москве](https://data.mos.ru/opendata/7710881420-obshchestvennoe-pitanie-v-moskve)<br>
 
 
 

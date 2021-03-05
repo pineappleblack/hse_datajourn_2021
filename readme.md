@@ -77,5 +77,10 @@
 [Поисковые запросы о сериалах и работе](https://trends.google.ru/trends/explore?geo=RU&q=%2Fm%2F02p0w7_,%2Fm%2F04115t2)<br>
 [Общественное питание в Москве](https://data.mos.ru/opendata/7710881420-obshchestvennoe-pitanie-v-moskve)<br>
 
+## День 8
 
+[Видео YouTube канала вДудь](https://www.youtube.com/c/vdud/videos)<br>
+[Квартиры в новостройках — Авито](https://www.avito.ru/moskva/kvartiry/prodam/novostroyka-ASgBAQICAUSSA8YQAUDmBxSOUg?cd=1&rn=25928)<br>
+[Рейтинг РБК — лучшие регионы для жизни](https://www.rbc.ru/society/21/07/2020/5f159b3b9a79472f207e8324)
 
+[Домашнее задание 3](/homeworks/hw3.md)

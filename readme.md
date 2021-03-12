@@ -84,3 +84,7 @@
 [Рейтинг РБК — лучшие регионы для жизни](https://www.rbc.ru/society/21/07/2020/5f159b3b9a79472f207e8324)
 
 [Домашнее задание 3](/homeworks/hw3.md)
+
+## День 9
+
+[Рабочая тетрадь: визуализация данных в таблицах](https://docs.google.com/spreadsheets/d/1rZatjNltUVKPW6GmIr9j_bo-dTJA8aeBmzpqe4fRN1s/copy)<br>

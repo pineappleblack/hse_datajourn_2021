@@ -88,3 +88,9 @@
 ## День 9
 
 [Рабочая тетрадь: визуализация данных в таблицах](https://docs.google.com/spreadsheets/d/1rZatjNltUVKPW6GmIr9j_bo-dTJA8aeBmzpqe4fRN1s/copy)<br>
+[Население городов России](https://docs.google.com/spreadsheets/d/1Ccg1bBLrtXMDVCZyNrlASEr_-MKoRrMuukOB5OZx78c/copy)<br>
+[Адреса корпусов ВШЭ](https://www.hse.ru/buildinghse/list)<br>
+[Шаблон плиточной карты](https://docs.google.com/spreadsheets/d/10YgDwuLM_clbYp90-6GSng_Z0_ktwbjwF7aKs26RzBo/copy)<br>
+[Продажи пива в России](https://fedstat.ru/indicator/57960)<br>
+
+[Домашнее задание 4](/homeworks/hw4.md)

@@ -88,6 +88,7 @@
 ## День 9
 
 [Рабочая тетрадь: визуализация данных в таблицах](https://docs.google.com/spreadsheets/d/1rZatjNltUVKPW6GmIr9j_bo-dTJA8aeBmzpqe4fRN1s/copy)<br>
+[Расширение для геокодинга](https://workspace.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312?hl=ru)<br>
 [Население городов России](https://docs.google.com/spreadsheets/d/1Ccg1bBLrtXMDVCZyNrlASEr_-MKoRrMuukOB5OZx78c/copy)<br>
 [Адреса корпусов ВШЭ](https://www.hse.ru/buildinghse/list)<br>
 [Шаблон плиточной карты](https://docs.google.com/spreadsheets/d/10YgDwuLM_clbYp90-6GSng_Z0_ktwbjwF7aKs26RzBo/copy)<br>

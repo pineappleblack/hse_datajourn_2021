@@ -95,3 +95,7 @@
 [Продажи пива в России](https://fedstat.ru/indicator/57960)<br>
 
 [Домашнее задание 4](/homeworks/hw4.md)
+
+## День 10
+**Лекция**<br>
+А что дальше? [[pdf]](/lections/lection5.pdf)<br>

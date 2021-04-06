@@ -4,7 +4,7 @@
 Критерии оценивания: [[pdf]](/otsenka.pdf)<br>
 
 ## День 1
-Разбор работ с предыдущего курса: [[pdf]](/lections/rabor.pdf)<br>
+Разбор работ с предыдущего курса: [[pdf]](/lections/razbor.pdf)<br>
 [Тест по визуализации данных](https://bar-or-pie.dianov.org/)<br>
 
 **Лекция**<br>

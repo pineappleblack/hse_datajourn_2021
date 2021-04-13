@@ -19,5 +19,5 @@
 [Количество браков в разбивке по месяцам](https://fedstat.ru/indicator/33553)<br>
 [Кого выгоняют с уроков](https://docs.google.com/spreadsheets/d/1yH2Bq4uf_pRfQK5DMED8H79axfBhkz7tV3BnygmdIHA/copy)<br>
 
-(/works/classwork1)[pdf]]
+[Классная работа 1](/works/classwork1.md)
 

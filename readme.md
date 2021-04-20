@@ -26,3 +26,4 @@
 **Практика**<br>
 [Открытые данные портала Реформа ЖКХ](https://www.reformagkh.ru/opendata)<br>
 [Текст издания The Pudding про то, как мы выражаем смех](https://pudding.cool/2019/10/laugh/) + [Данные](https://github.com/the-pudding/data/tree/master/laugh)<br>
+[Объявления об эскорт-услугах в Москве](https://www.kaggle.com/user1199/girls-from-escort-moscow-without-personal-data)

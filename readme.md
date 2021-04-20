@@ -12,6 +12,7 @@
 Функции графиков. Комплексные диаграммы: [[pdf]](/lections/lection_2.pdf)<br>
 
 ## День 2
+**Практика**<br>
 [Оценки сериалов  и их адаптаций](https://docs.google.com/spreadsheets/d/1EYnj-y8F0ai4hjogLYlvgRMYtzvZ9Nmx_gh9m1sEyRw/copy)<br>
 [Удовлетворённость жизнью](https://docs.google.com/spreadsheets/d/1dh-wIYMJh4XfhBlrUjSZ5WM-b4WUW93pvRNs43ZIfMM/copy)<br>
 [Почему люди в разном возрасте платят налоги](https://github.com/pineappleblack/hse_dataviz_2020/blob/master/data/fom_data.csv)<br>
@@ -21,3 +22,7 @@
 
 [Классная работа 1](/works/classwork1.md)
 
+## День 3
+**Практика**<br>
+[Открытые данные портала Реформа ЖКХ](https://www.reformagkh.ru/opendata)<br>
+[Текст издания The Pudding про то, как мы выражаем смех](https://pudding.cool/2019/10/laugh/) + [Данные](https://github.com/the-pudding/data/tree/master/laugh)<br>

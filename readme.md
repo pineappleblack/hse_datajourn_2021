@@ -27,3 +27,10 @@
 [Открытые данные портала Реформа ЖКХ](https://www.reformagkh.ru/opendata)<br>
 [Текст издания The Pudding про то, как мы выражаем смех](https://pudding.cool/2019/10/laugh/) + [Данные](https://github.com/the-pudding/data/tree/master/laugh)<br>
 [Объявления об эскорт-услугах в Москве](https://www.kaggle.com/user1199/girls-from-escort-moscow-without-personal-data)
+
+## День 4
+**Практика**<br>
+[Количество женщин в России](https://www.fedstat.ru/indicator/33459)<br>
+[Численность населения по полу и возрасту](https://rosstat.gov.ru/compendium/document/13284)<br>
+[Наказания за растраты](https://docs.google.com/spreadsheets/d/1m35FRjYqivQTXwKUMytLI43HTssmy-cKmY7ENth80Us/edit?usp=sharing)<br>
+[Космические пуски в 2010-x](https://docs.google.com/spreadsheets/d/1TwSfz8MSof58SpTImtCniS_tWCWMkDn-T3bRJMhS7IY/edit?usp=sharing) + [вики](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%BE%D0%B2)<br>

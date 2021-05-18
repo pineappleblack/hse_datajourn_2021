@@ -34,3 +34,7 @@
 [Численность населения по полу и возрасту](https://rosstat.gov.ru/compendium/document/13284)<br>
 [Наказания за растраты](https://docs.google.com/spreadsheets/d/1m35FRjYqivQTXwKUMytLI43HTssmy-cKmY7ENth80Us/copy)<br>
 [Космические пуски в 2010-x](https://docs.google.com/spreadsheets/d/1TwSfz8MSof58SpTImtCniS_tWCWMkDn-T3bRJMhS7IY/copy) + [вики](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%BE%D0%B2)<br>
+
+## День 5
+**Практика**<br>
+Импорт и экспорт из ЕС: [данные](https://docs.google.com/spreadsheets/d/19tWeBPzOEELD0OIu8TyopFwnfFfpQJzRLsAhQmhs0cY/copy), [оригинальная работа](https://www.wikiwand.com/en/William_Playfair), [ремейк](https://public.tableau.com/profile/roman4734#!/vizhome/TributetoPlayfairMM2021W13/TributetoPlayfair)

@@ -38,3 +38,4 @@
 ## День 5
 **Практика**<br>
 Импорт и экспорт из ЕС: [данные](https://docs.google.com/spreadsheets/d/19tWeBPzOEELD0OIu8TyopFwnfFfpQJzRLsAhQmhs0cY/copy), [оригинальная работа](https://www.wikiwand.com/en/William_Playfair), [ремейк](https://public.tableau.com/profile/roman4734#!/vizhome/TributetoPlayfairMM2021W13/TributetoPlayfair)
+Потребление алкоголя в странах мира: [данные](https://docs.google.com/spreadsheets/d/1hIJb32bQW7Z696Vi77Uo0ukp4qaSH3Y08pOXpunFxAU/edit#gid=568055625), [работа](https://public.tableau.com/en-us/gallery/whats-your-beverage-choice)

@@ -1,5 +1,7 @@
 # Проектный семинар по визуализации данных
 
+[Материалы с семинара по дата-журналистике](https://github.com/pineappleblack/hse_datajourn_2021/tree/master/datajourn)<br>
+
 ## Общее
 Критерии оценивания: [[pdf]](/otsenka.pdf)<br>
 

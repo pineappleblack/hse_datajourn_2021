@@ -2,11 +2,9 @@
 
 [Материалы с семинара по дата-журналистике](https://github.com/pineappleblack/hse_datajourn_2021/tree/master/datajourn)<br>
 
-[Итоговый проект #1](/works/project1.md)<br>
-
-
 ## Общее
 Критерии оценивания: [[pdf]](/otsenka.pdf)<br>
+[Итоговый проект #1](/works/project1.md)<br>
 
 ## День 1
 Разбор работ с предыдущего курса: [[pdf]](/lections/razbor.pdf)<br>

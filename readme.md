@@ -44,3 +44,11 @@
 Потребление алкоголя в странах мира: [данные](https://docs.google.com/spreadsheets/d/1hIJb32bQW7Z696Vi77Uo0ukp4qaSH3Y08pOXpunFxAU/edit#gid=568055625), [работа](https://public.tableau.com/en-us/gallery/whats-your-beverage-choice)<br>
 
 [Классная работа 2](/works/classwork2.md)
+
+## День 6
+**Лекция**<br>
+Визуализация данных как искусство: [[pdf]](/lections/lection_3.pdf)<br>
+
+**Практика**<br>
+[Шрифт Montserrat](https://fonts.google.com/specimen/Montserrat)<br>
+[Пицца](https://pixnio.com/food-and-drink/pizza/dinner-sauce-cheese-tomato-pizza-mozzarella-lunch-food-meal)<br>

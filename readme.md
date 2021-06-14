@@ -52,3 +52,15 @@
 **Практика**<br>
 [Шрифт Montserrat](https://fonts.google.com/specimen/Montserrat)<br>
 [Пицца](https://pixnio.com/food-and-drink/pizza/dinner-sauce-cheese-tomato-pizza-mozzarella-lunch-food-meal)<br>
+
+## День 7
+Разбор проектов: [[pdf]](/lections/razbor_2.pdf)<br>
+Визуализация данных на картах: [[pdf]](/lections/lection_4.pdf)<br>
+
+**Практика**<br>
+[Населённые пункты России](https://data-in.ru/data-catalog/datasets/160/)<br>
+[Шаблон плиточной карты](https://docs.google.com/spreadsheets/d/10YgDwuLM_clbYp90-6GSng_Z0_ktwbjwF7aKs26RzBo/edit#gid=0)<br>
+[Источники отопления в домах](https://rosstat.gov.ru/free_doc/new_site/KOUZ18/Files/Tab%2010.1.xlsx)<br>
+[Примеры потоковых диаграмм](https://www.figma.com/file/0q50yYmc2u1VwKE4LnRV6z/Potoki?node-id=0%3A1)<br>
+[Президентская гонка](https://docs.google.com/spreadsheets/d/1lBIURf6QmeyPAaaLDSsX4xX88JWAfTy0rGMkn5-kadg/edit?usp=sharing)<br>
+[Санкей о миграции](https://www.data-to-viz.com/graph/sankey.html)<br>

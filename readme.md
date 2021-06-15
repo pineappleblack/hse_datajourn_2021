@@ -5,6 +5,7 @@
 ## Общее
 Критерии оценивания: [[pdf]](/otsenka.pdf)<br>
 [Итоговый проект #1](/works/project1.md)<br>
+[Итоговый проект #2](/works/project2.md)<br>
 
 ## День 1
 Разбор работ с предыдущего курса: [[pdf]](/lections/razbor.pdf)<br>
@@ -64,3 +65,12 @@
 [Примеры потоковых диаграмм](https://www.figma.com/file/0q50yYmc2u1VwKE4LnRV6z/Potoki?node-id=0%3A1)<br>
 [Президентская гонка](https://docs.google.com/spreadsheets/d/1lBIURf6QmeyPAaaLDSsX4xX88JWAfTy0rGMkn5-kadg/edit?usp=sharing)<br>
 [Санкей о миграции](https://www.data-to-viz.com/graph/sankey.html)<br>
+
+## День 8
+Примеры  анимированных работ: [1](https://pudding.cool/2021/03/foundation-names/), [2](https://parametric.press/issue-02/corporations/), [3](https://flourish.studio/2021/01/19/masters-reveal-line-john-burn-murdoch/)<br>
+
+**Практика**<br>
+[Оперативные данные о смертности в России](https://docs.google.com/spreadsheets/d/1OSaAZYv4dayFlpSHjySq1r4Jk8zYmIUh6eY9aENh5fE/edit?usp=sharing)<br>
+[Данные о вакцинации против COVID-19 в мире](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations)<br>
+[Подписи президентов 2018](https://docs.google.com/spreadsheets/d/1dTdB-aHTrG_2aszFH2QeZghKZ8B1jVvGL9hriHO_O3Y/edit?usp=sharing)<br>
+[Оценки за датажур](https://docs.google.com/spreadsheets/d/18iW2pBHuygG_RGeIpKcMsf8nrnSM3f4b3xfv07VWg-4/edit#gid=0)

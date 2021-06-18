@@ -74,3 +74,7 @@
 [Данные о вакцинации против COVID-19 в мире](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations)<br>
 [Подписи президентов 2018](https://docs.google.com/spreadsheets/d/1dTdB-aHTrG_2aszFH2QeZghKZ8B1jVvGL9hriHO_O3Y/edit?usp=sharing)<br>
 [Оценки за датажур](https://docs.google.com/spreadsheets/d/18iW2pBHuygG_RGeIpKcMsf8nrnSM3f4b3xfv07VWg-4/edit#gid=0)
+
+## День 9
+Как сделать график максимально эффективным: [[pdf]](/lections/bad_choises.pdf)<br>
+[Классная работа 3](/works/classwork3.md)

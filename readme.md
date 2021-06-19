@@ -6,6 +6,7 @@
 Критерии оценивания: [[pdf]](/otsenka.pdf)<br>
 [Итоговый проект #1](/works/project1.md)<br>
 [Итоговый проект #2](/works/project2.md)<br>
+[Итоговый проект #3](/works/project3.md)<br>
 
 ## День 1
 Разбор работ с предыдущего курса: [[pdf]](/lections/razbor.pdf)<br>
